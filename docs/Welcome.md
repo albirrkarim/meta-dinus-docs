@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-slug: /wellcome.html
+slug: /welcome.html
 ---
 
 ### Selamat datang di Dinus Metaverse

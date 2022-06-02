@@ -1,44 +1,43 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const lightCodeTheme = require("prism-react-renderer/themes/github");
+const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Dokumentasi Dinus Metaverse',
-  tagline: 'Dokumentasi Dinus Metaverse',
-  url: 'https://meta.dinus.ac.id',
-  baseUrl: '/docs/',
-  onBrokenLinks: 'warn',
-  onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  title: "Dokumentasi Dinus Metaverse",
+  tagline: "Dokumentasi Dinus Metaverse",
+  url: "https://meta.dinus.ac.id",
+  baseUrl: "/docs/",
+  onBrokenLinks: "warn",
+  onBrokenMarkdownLinks: "warn",
+  favicon: "img/favicon.ico",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: "facebook", // Usually your GitHub org/user name.
+  projectName: "docusaurus", // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: "en",
+    locales: ["en"],
   },
 
   presets: [
     [
-      'classic',
+      "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
+          sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           routeBasePath: "/",
-          editUrl:
-            'https://github.com/albirrkarim/meta-dinus-docs/tree/master',
+          editUrl: "https://github.com/albirrkarim/meta-dinus-docs/tree/master",
         },
         // blog: {
         //   showReadingTime: true,
@@ -50,7 +49,7 @@ const config = {
         // },
         blog: false,
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: require.resolve("./src/css/custom.css"),
         },
       }),
     ],
@@ -60,22 +59,23 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Dokumentasi',
+        title: "Dokumentasi",
         logo: {
-          alt: 'Dinus Metaverse',
-          src: 'img/udinus.png',
+          alt: "Dinus Metaverse",
+          src: "img/udinus.png",
+          href: "https://meta.dinus.ac.id",
         },
         items: [
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/albirrkarim/meta-dinus-docs',
-            label: 'GitHub',
-            position: 'right',
+            href: "https://github.com/albirrkarim/meta-dinus-docs",
+            label: "GitHub",
+            position: "right",
           },
         ],
       },
       footer: {
-        style: 'light',
+        style: "light",
         links: [
           // {
           //   title: 'Docs',
@@ -104,15 +104,15 @@ const config = {
           //   ],
           // },
           {
-            title: 'More',
+            title: "More",
             items: [
               {
-                label: 'Home',
-                href: 'https://meta.dinus.ac.id',
+                label: "Home",
+                href: "https://meta.dinus.ac.id",
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/albirrkarim/meta-dinus-docs',
+                label: "GitHub",
+                href: "https://github.com/albirrkarim/meta-dinus-docs",
               },
             ],
           },

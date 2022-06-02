@@ -30,3 +30,6 @@ Bertemu bersama sama di ruangan virtual
 ### Progressive Web App
 
 Anda dapat menginstall aplikasi ini di desktop / smartphone anda.
+
+
+![Alt](img/localeDropdown.png)

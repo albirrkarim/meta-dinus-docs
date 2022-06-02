@@ -6,3 +6,5 @@ ajgasjdjasd sdgjasd
 > asjajsah
 
 **aaa**
+
+![Bahasa Ing](support/img/localeDropdown.png)

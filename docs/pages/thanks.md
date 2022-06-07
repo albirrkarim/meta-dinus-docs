@@ -17,6 +17,7 @@ slug: /thanks.html
 
 #### Dokumentasi & Tutorial
 - Zahrotul Umami M.I.Kom
+- Firstania Berlian Aryusiwi
 
 #### Testing & analisis
 - Dimas Seto Wicaksana

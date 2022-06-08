@@ -3,6 +3,8 @@ title: Ruangan
 slug: /rooms.html
 ---
 
+Ruang pada Aplikasi Dinus Metaverse yang dapat diatur sesuai dengan kebutuhan dan keinginan dengan bentuk yang berbeda-beda.
+
 ## Membuat dan bergabung di ruangan
 
 ### Membuat ruangan

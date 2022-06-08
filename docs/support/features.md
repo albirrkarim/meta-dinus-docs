@@ -1,7 +1,10 @@
 ---
-title: Features
+title: Fitur - Fitur
 slug: /features.html
 ---
+
+Berbagai fitur pada Aplikasi Dinus Metaverse yang dapat digunakan untuk membantu berbagai kegiatan dalam penggguaan Aplikasi Dinus Metaverse.
+
 ### Voice
 
 Mengatur nyala dan matinya microphone dan speaker, dan memilih penggunaan microphone dan speaker.

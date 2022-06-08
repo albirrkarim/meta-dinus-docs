@@ -1,7 +1,9 @@
 ---
-title: Mengatasi masalah / error
+title: Mengatasi Masalah
 slug: /troubleshoot.html
 ---
+
+Mengatasi jika kemungkinan terjadi masalah pada Aplikasi Dinus Metaverse sehingga dapat teratasi.
 
 ### 1. Jangan memakai mode penyamaran / incognito. 
 Fitur sign in dengan google tidak bisa digunakan

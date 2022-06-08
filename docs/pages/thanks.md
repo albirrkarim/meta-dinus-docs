@@ -1,7 +1,9 @@
 ---
-title: Thanks to
+title: Terimakasih Kepada
 slug: /thanks.html
 ---
+
+Terima Kasih kepada pihak-pihak yang telah membantu dan mendukung Aplikasi Dinus Metaverse.
 
 ### Supervisi:
 - Dr. Pulung Nurtantio Andono S.T, M.Kom

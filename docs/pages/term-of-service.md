@@ -1,5 +1,5 @@
 ---
-title: Ketentuan layanan
+title: Ketentuan Layanan
 slug: /tos.html
 ---
 

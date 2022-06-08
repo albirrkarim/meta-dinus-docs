@@ -3,6 +3,8 @@ title: Kontrol Aplikasi
 slug: /controls.html
 ---
 
+Mengontrol penggunaan Aplikasi Dinus Metaverse dengan menggunakan berbagai device yaitu Laptop/PC, Smartphone, dan Oculus. Dari ketiga device tersebut masing-masing memiliki perbedaan yang akan menyuguhkan pengalaman berbeda di Dinus Metaverse.
+
 ### Pada laptop / PC
 
 **- Bergerak**

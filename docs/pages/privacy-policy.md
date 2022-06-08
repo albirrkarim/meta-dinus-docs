@@ -3,6 +3,8 @@ title: Kebijakan Privasi
 slug: /privacy.html
 ---
 
+Kebijakan privasi pada Aplikasi Dinus Metaverse
+
 ### Kebijakan Privasi untuk Dinus Metaverse
 Di Dinus Metaverse, dapat diakses dari meta.dinus.ac.id, salah satu prioritas utama kami adalah privasi pengunjung kami. Dokumen Kebijakan Privasi ini berisi jenis informasi yang dikumpulkan dan dicatat oleh Dinus Metaverse dan bagaimana kami menggunakannya.
 

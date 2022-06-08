@@ -7,20 +7,35 @@ slug: /rooms.html
 
 ### Membuat ruangan
 
+- Klik *Create Room* pada halaman depan Dinus Metaverse, kemudian akan diarahkan untuk sign in
 
-- Pertama yang harus dilakukan yaitu login menggunakan akun google (gmail) atau bisa juga untuk mahasiswa bisa menggunakan email mhs.dinus.ac.id untuk dosen bisa menggunakan email dsn.dinus.ac.id
+![sign in](img/login.png)
 
-- Selanjutnya beri nama ruangan (opsional) dan pilih bentuk bangunan yang akan digunakan sesuai keinginan.
+- Selanjutnya login menggunakan akun google (gmail) atau bisa juga untuk mahasiswa bisa menggunakan email mhs.dinus.ac.id untuk dosen bisa menggunakan email dsn.dinus.ac.id
 
-- Klik tombol *Create Room* untuk masuk dan berpindaha ke ruangan yang pengguna buat.
+![login](img/gmail.png)
 
-Pembuat ruangan dapat memilih bentuk ruangan, deskripsi bangunan, kapasistas orang yang dapat bergabung di dalam ruangan, dan juga akses ruangan.
+- Selanjutnya beri nama ruangan (opsional) dan pilih bentuk bangunan yang akan digunakan sesuai keinginan dan klik tombol *Create room*
 
-Pembuat ruangan juga bisa mengatur ijin akses untuk pengguna lain dalam melakukan *pemindahan objek*, *membuat objek/camera*, *pin objek*, *menggambar*, *membuat emoticon*, dan *terbang*.
+![pilih ruangan](img/pilihruangan.png)
 
-Pembuat ruangan juga bisa mengatur range waktu dalam share link ruangan sesuai jam mulai rapat/kelas/event yang sudah ditentukan. Apabila peserta terlambat/tidak sesuai dengan waktu yang ditentukan dalam mengakses link ruangan, link dapat dihilangkan sehingga tidak bisa diakses. 
+- Setelah maasuk klik tombol *Join Room* lalu akan diminta untuk mengatur nama dan memilih avatar, lalu klik *Accept*
+
+![atur avatar](img/joinroom.png)
+
+- Pembuat ruangan dapat memilih bentuk ruangan, deskripsi bangunan, kapasistas orang yang dapat bergabung di dalam ruangan, dan juga akses ruangan.
+
+![options](img/options.png)
+
+- Pembuat ruangan juga bisa mengatur ijin akses untuk pengguna lain dalam melakukan *pemindahan objek*, *membuat objek/camera*, *pin objek*, *menggambar*, *membuat emoticon*, dan *terbang*, kemudian jika semua sudah diatur klik *Apply*
+
+![perijinan](img/perijinan.png)
+
+- Pembuat ruangan juga bisa mengatur range waktu dalam share link ruangan sesuai jam mulai rapat/kelas/event yang sudah ditentukan. Apabila peserta terlambat/tidak sesuai dengan waktu yang ditentukan dalam mengakses link ruangan, link dapat dihilangkan sehingga tidak bisa diakses. 
 
 Dengan klik *Room info and setting* > *Edit* > Invite link klik *Revoke* > Apply
+
+![revoke](img/revoke.png)
 
 ### Bergabung ruangan
 

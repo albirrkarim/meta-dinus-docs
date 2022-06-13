@@ -22,6 +22,8 @@ import VideoTeleport  from "./video/teleport.mp4"
 import VideoLookAround  from "./video/look_around.mp4"
 import VideoSit  from "./video/sit.mp4"
 
+import VideoMobile  from "./video/mobile.mp4"
+
 Mengontrol penggunaan Aplikasi Dinus Metaverse dengan menggunakan berbagai device yaitu Laptop/PC, Smartphone, dan Oculus. Dari ketiga device tersebut masing-masing memiliki perbedaan yang akan menyuguhkan pengalaman berbeda di Dinus Metaverse.
 
 ### Laptop / PC
@@ -30,7 +32,7 @@ Mengontrol penggunaan Aplikasi Dinus Metaverse dengan menggunakan berbagai devic
 
 **- Bergerak**
 
-<video autoPlay muted loop style={{ width:"100%" }}>
+<video autoPlay muted loop style={{ width:"100%",borderRadius:"16px" }}>
   <source src={VideoWASD}/>
 </video>
 
@@ -38,7 +40,7 @@ Untuk bergerak klik tombol `W`-`A`-`S`-`D` pada keyboard, maka akan bergerak maj
 
 **- Teleport**
 
-<video autoPlay muted loop style={{ width:"100%" }}>
+<video autoPlay muted loop style={{ width:"100%",borderRadius:"16px" }}>
   <source src={VideoTeleport}/>
 </video>
 
@@ -46,7 +48,7 @@ Untuk melakukan teleportasi ke tempat yang dituju, arahkan mouse ke tempat yang 
 
 **- Melihat sekitar**
 
-<video autoPlay muted loop style={{ width:"100%" }}>
+<video autoPlay muted loop style={{ width:"100%",borderRadius:"16px" }}>
   <source src={VideoLookAround}/>
 </video>
 
@@ -54,13 +56,17 @@ Untuk melihat sekitar klik dan tahan mouse pada layar lalu geser ke sudut yang i
 
 **- Duduk**
 
-<video autoPlay muted loop style={{ width:"100%" }}>
+<video autoPlay muted loop style={{ width:"100%",borderRadius:"16px" }}>
   <source src={VideoSit}/>
 </video>
 
 Untuk duduk pada kursi yang tersedia di dalam ruangan, klik `spasi` pada keyboard dan tahan, kemudian arahkan ke kursi yang diinginkan, lalu klik pada icon diatas kursi.
 
 ### Smartphone
+
+<video autoPlay muted loop style={{ width:"100%", maxWidth:"200px", borderRadius:"16px" }}>
+  <source src={VideoMobile}/>
+</video>
 
 **- Bergerak**
 

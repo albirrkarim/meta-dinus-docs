@@ -65,4 +65,6 @@ Melakukan chatting/mengobrol, berbagi emoticon, dan berbagi file dengan pengguna
 
 ### - Progressive Web App
 
+![pwa](img/pwa.png)
+
 Anda dapat menginstall aplikasi ini di desktop / smartphone anda.

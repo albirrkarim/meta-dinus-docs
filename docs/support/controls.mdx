@@ -17,27 +17,50 @@ import HandFullGrab from "./img/hand_full_grab.png";
 
 import HandFullGrabRight from "./img/hand_full_grab_right.png";
 
+import VideoWASD  from "./video/move.mp4"
+import VideoTeleport  from "./video/teleport.mp4"
+import VideoLookAround  from "./video/look_around.mp4"
+import VideoSit  from "./video/sit.mp4"
+
 Mengontrol penggunaan Aplikasi Dinus Metaverse dengan menggunakan berbagai device yaitu Laptop/PC, Smartphone, dan Oculus. Dari ketiga device tersebut masing-masing memiliki perbedaan yang akan menyuguhkan pengalaman berbeda di Dinus Metaverse.
 
-### Pada laptop / PC
+### Laptop / PC
+
+![keyboard shortcut](img/keyboard.png)
 
 **- Bergerak**
 
-Untuk bergerak klik tombol W-A-S-D pada keyboard, maka akan bergerak maju-kiri-mundur-kanan.
+<video autoPlay muted loop style={{ width:"100%" }}>
+  <source src={VideoWASD}/>
+</video>
+
+Untuk bergerak klik tombol `W`-`A`-`S`-`D` pada keyboard, maka akan bergerak maju-kiri-mundur-kanan.
 
 **- Teleport**
+
+<video autoPlay muted loop style={{ width:"100%" }}>
+  <source src={VideoTeleport}/>
+</video>
 
 Untuk melakukan teleportasi ke tempat yang dituju, arahkan mouse ke tempat yang ingin dituju kemudian klik kanan, tahan dan lepas.
 
 **- Melihat sekitar**
 
+<video autoPlay muted loop style={{ width:"100%" }}>
+  <source src={VideoLookAround}/>
+</video>
+
 Untuk melihat sekitar klik dan tahan mouse pada layar lalu geser ke sudut yang ingin dilihat.
 
 **- Duduk**
 
-Untuk duduk pada kursi yang tersedia di dalam ruangan, klik spasi pada keyboard dan tahan, kemudian arahkan ke kursi yang diinginkan, lalu klik pada objek kursi.
+<video autoPlay muted loop style={{ width:"100%" }}>
+  <source src={VideoSit}/>
+</video>
 
-### Pada Smartphone
+Untuk duduk pada kursi yang tersedia di dalam ruangan, klik `spasi` pada keyboard dan tahan, kemudian arahkan ke kursi yang diinginkan, lalu klik pada icon diatas kursi.
+
+### Smartphone
 
 **- Bergerak**
 
@@ -47,7 +70,7 @@ Untuk bergerak lakukan Zoom in pada layar untuk bergerak maju, dan lakukan Zoom 
 
 Untuk melihat sekitar lakukan Swipe / usap layar ke sudut yang ingin di lihat.
 
-### Pada Headset VR (Oculus Quest 2)
+### Headset VR (Oculus Quest 2)
 
 **- Bergerak**
 

@@ -3,14 +3,17 @@ title: Rekomendasi Penggunaan
 slug: /requirement.html
 ---
 
-
-Untuk mendapatkan pengalaman terbaik menggunakan aplikasi Dinus Metaverse, kami merekomendasikan untuk menggunakan versi terbaru web browser [Chrome](https://www.google.com/chrome/).
+Dokumentasi spesifikasi untuk menggunakan aplikasi Dinus Metaverse.
 
 ## Rekomendasi Spesifikasi
 
 Kami mengembangkan aplikasi Dinus Metaverse dengan menggunakan teknologi browser terbaru untuk mendapatkan performa maksimal dan pengalaman pengguna paling baik.
 
 **PERINGATAN !** Menggunakan browser yang tidak terupdate dapat membuat anda tidak dapat mengakses aplikasi Dinus Metaverse dan memungkinkan beberapa fitur tidak dapat berjalan sebagaimana mestinya.
+
+Kami merekomendasikan mengakses aplikasi Dinus Metaverse menggunakan browser : 
+
+- Google Chrome
 
 ### Laptop / Komputer
 
@@ -19,7 +22,6 @@ Kami mengembangkan aplikasi Dinus Metaverse dengan menggunakan teknologi browser
 |Memory RAM | 4 Gb |
 |Processor | Intel I3 |
 |Kecepatan Internet| 2 Mbps |
-
 
 ### Smartphone
 
@@ -33,10 +35,12 @@ Kami mengembangkan aplikasi Dinus Metaverse dengan menggunakan teknologi browser
 
 ### Headset VR
 
-oculus browser
 Jika anda menggunakan headset VR kami merekomendasikan menggunakan perangkat [Oculus Quest 2](https://store.facebook.com/quest/products/quest-2/?utm_source=www.google.com&utm_medium=oculusredirect), karena Headset tersebut memiliki kontrol lengkap untuk pengalaman terbaik menggunakan aplikasi.
 
-## Minimum
+#### Browser Headset
+- Oculus Browser
+
+## Spesifikasi Minimum
 
 ### Laptop / Komputer
 
@@ -57,17 +61,14 @@ Jika anda menggunakan headset VR kami merekomendasikan menggunakan perangkat [Oc
 
 ### Headset VR
 
-oculus browser
 Jika anda menggunakan headset VR kami merekomendasikan menggunakan perangkat [Oculus Quest 2](https://store.facebook.com/quest/products/quest-2/?utm_source=www.google.com&utm_medium=oculusredirect), karena Headset tersebut memiliki kontrol lengkap untuk pengalaman terbaik menggunakan aplikasi.
 
-### Browser Untuk Pengguna Smartphone
+#### Browser Headset
+- Oculus Browser
 
-Kami merekomendasikan mengakses aplikasi Dinus Metaverse menggunakan browser : 
-
-- Google Chrome
-
+### Dukungan Tim
 Jika anda sudah menggunakan browser yang direkomendasikan tetapi tidak berjalan semestinya, maka : 
 - Lakukan pengecekan pada **versi browser** anda jika membutuhkan pembaruan versi.
 - Gunakan browser lain dengan versi terbaru.
 
-Jika anda sudah mencoba cara diatas tetapi tetap mengalami hal yang sama, silakan mengisi [menghubungi developer](http://localhost:3000/docs/troubleshoot.html#jika-masih-error-bisa-menghubungi-admin) dengan segera tim developer akan melakukan perbaikan.
+Jika anda sudah mencoba cara diatas tetapi tetap mengalami hal yang sama, silakan [menghubungi developer](http://localhost:3000/docs/troubleshoot.html#jika-masih-error-bisa-menghubungi-admin) dengan segera tim developer akan melakukan perbaikan.

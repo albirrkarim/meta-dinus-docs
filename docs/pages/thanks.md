@@ -20,6 +20,8 @@ Terima Kasih kepada pihak-pihak yang telah membantu dan mendukung Aplikasi Dinus
 #### Dokumentasi & Tutorial
 - Zahrotul Umami M.I.Kom
 - Firstania Berlian Aryusiwi
+- Hanif Rafie Satryo
+- Varian Kautsar
 
 #### Testing & analisis
 - Dimas Seto Wicaksana

@@ -3,7 +3,7 @@ title: Rekomendasi Penggunaan
 slug: /requirement.html
 ---
 
-Dokumentasi spesifikasi untuk menggunakan aplikasi Dinus Metaverse.
+Rekomendasi dan spesifikasi minimum untuk mengakses aplikasi ini.
 
 ## Rekomendasi Spesifikasi
 
@@ -13,7 +13,7 @@ Kami mengembangkan aplikasi Dinus Metaverse dengan menggunakan teknologi browser
 
 Kami merekomendasikan mengakses aplikasi Dinus Metaverse menggunakan browser : 
 
-- Google Chrome
+- [Google Chrome](https://www.google.com/chrome/)
 
 ### Laptop / Komputer
 
@@ -21,15 +21,14 @@ Kami merekomendasikan mengakses aplikasi Dinus Metaverse menggunakan browser :
 |--------| ----------- |
 |Memory RAM | 4 Gb |
 |Processor | Intel I3 |
-|Kecepatan Internet| 2 Mbps |
+|Kecepatan Internet| 2 MBps |
 
 ### Smartphone
 
 |#| Rekomendasi |
 |--------| ----------- |
 |Memory RAM| 4 Gb |
-|Sistem Operasi Android| Android 10.0 |
-|Sistem Operasi IOS| IOS 14 |
+|Sistem Operasi| Android 10.0 / IOS 14  |
 |Kecepatan Internet| 4G |
 
 
@@ -55,8 +54,7 @@ Jika anda menggunakan headset VR kami merekomendasikan menggunakan perangkat [Oc
 |#| Minimum | 
 |--------| ----------- | 
 |Memory RAM| 1 Gb | 
-|Sistem Operasi Android| Android 7.0 (Nougat) |
-|Sistem Operasi IOS| IOS 7 | 
+|Sistem Operasi| Android 7.0 (Nougat) / IOS 7 |
 |Kecepatan Internet| 3G |
 
 ### Headset VR
@@ -71,4 +69,4 @@ Jika anda sudah menggunakan browser yang direkomendasikan tetapi tidak berjalan 
 - Lakukan pengecekan pada **versi browser** anda jika membutuhkan pembaruan versi.
 - Gunakan browser lain dengan versi terbaru.
 
-Jika anda sudah mencoba cara diatas tetapi tetap mengalami hal yang sama, silakan [menghubungi developer](http://localhost:3000/docs/troubleshoot.html#jika-masih-error-bisa-menghubungi-admin) dengan segera tim developer akan melakukan perbaikan.
+Jika anda sudah mencoba cara diatas tetapi tetap mengalami hal yang sama, silakan [menghubungi developer](http://localhost:3000/docs/troubleshoot.html#jika-masih-error-bisa-menghubungi-admin).

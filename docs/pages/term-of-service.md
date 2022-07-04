@@ -9,27 +9,28 @@ Dengan menggunakan layanan ini maka anda menyetujui syarat dan ketentuan layanan
 
 Syarat dan ketentuan ini menguraikan aturan dan ketentuan penggunaan Website Dinus Metaverse yang terletak di meta.dinus.ac.id.
 
-Dengan mengakses situs web ini, kami menganggap Anda menerima syarat dan ketentuan ini. Jangan terus menggunakan Dinus Metaverse jika Anda tidak setuju untuk mengambil semua syarat dan ketentuan yang tercantum di halaman ini.
+Dengan mengakses situs web ini, kami menganggap Anda menerima syarat dan ketentuan ini. Jangan menggunakan Dinus Metaverse jika Anda tidak setuju untuk mematuhi semua syarat dan ketentuan yang tercantum di halaman ini.
 
-Terminologi berikut berlaku untuk Syarat dan Ketentuan ini, Pernyataan Privasi dan Pemberitahuan Penafian dan semua Perjanjian: "Klien", "Anda" dan "Anda" mengacu pada Anda, orang yang masuk ke situs web ini dan mematuhi syarat dan ketentuan Perusahaan. "Perusahaan", "Kami Sendiri", "Kami", "Kami" dan "Kami", mengacu pada Perusahaan kami. "Pihak", "Para Pihak", atau "Kami", mengacu pada Klien dan kami sendiri. Semua istilah mengacu pada penawaran, penerimaan, dan pertimbangan pembayaran yang diperlukan untuk melakukan proses bantuan kami kepada Klien dengan cara yang paling tepat untuk tujuan yang jelas dalam memenuhi kebutuhan Klien sehubungan dengan penyediaan layanan yang dinyatakan Perusahaan, sesuai dengan dan tunduk pada, hukum yang berlaku di Belanda. Setiap penggunaan terminologi di atas atau kata lain dalam bentuk tunggal, jamak, huruf besar dan/atau dia, dianggap dapat dipertukarkan dan oleh karena itu mengacu pada yang sama. Syarat dan Ketentuan kami dibuat dengan bantuan Generator Syarat & Ketentuan.
+Terminologi berikut berlaku untuk Syarat dan Ketentuan ini, Pernyataan Privasi dan Pemberitahuan Penafian dan semua Perjanjian: "Klien", "Anda" dan "Anda" mengacu pada Anda, orang yang masuk ke situs web ini dan mematuhi syarat dan ketentuan Perusahaan. "Perusahaan", "Kami Sendiri", dan "Kami", mengacu pada Perusahaan kami. "Pihak", "Para Pihak", atau "Kami", mengacu pada Klien dan kami sendiri. Semua istilah mengacu pada penawaran, penerimaan, dan pertimbangan pembayaran yang diperlukan untuk melakukan proses bantuan kami kepada Klien dengan cara yang paling tepat untuk tujuan yang jelas dalam memenuhi kebutuhan Klien sehubungan dengan penyediaan layanan yang dinyatakan Perusahaan, sesuai dengan dan tunduk pada, hukum yang berlaku di Indonesia. Setiap penggunaan terminologi di atas atau kata lain dalam bentuk tunggal, jamak, huruf besar dan/atau dia, dianggap dapat dipertukarkan dan oleh karena itu mengacu pada yang sama.
 
 ### Cookies
 
-Kami menerapkan penggunaan cookie. Dengan mengakses Dinus Metaverse, Anda setuju untuk menggunakan cookie sesuai dengan Kebijakan Privasi Dinus Metaverse.
+Kami menerapkan penggunaan cookie. Dengan mengakses Dinus Metaverse, Anda setuju untuk menggunakan cookie sesuai dengan [Kebijakan Privasi](/docs/privacy.html) Dinus Metaverse.
 
-Sebagian besar situs web interaktif menggunakan cookie untuk memungkinkan kami mengambil detail pengguna untuk setiap kunjungan. Cookie digunakan oleh situs web kami untuk mengaktifkan fungsionalitas area tertentu untuk memudahkan orang mengunjungi situs web kami. Beberapa mitra afiliasi/iklan kami juga dapat menggunakan cookie.
+Sebagian besar situs web interaktif menggunakan cookie untuk memungkinkan kami mengambil detail pengguna untuk setiap kunjungan. Cookie digunakan oleh situs web kami untuk mengaktifkan fungsionalitas area tertentu untuk memudahkan orang mengunjungi situs web kami. Beberapa mitra kami juga dapat menggunakan cookie.
 
 ### Lisensi
 
 Kecuali dinyatakan lain, Dinus Metaverse dan/atau pemberi lisensinya memiliki hak kekayaan intelektual untuk semua materi di Dinus Metaverse. Semua hak kekayaan intelektual dilindungi. Anda dapat mengakses ini dari Dinus Metaverse untuk penggunaan pribadi Anda dengan batasan yang diatur dalam syarat dan ketentuan ini.
 
-Anda tidak harus:
+Anda tidak boleh:
 
 - Publikasikan ulang materi dari Dinus Metaverse
 - Menjual, menyewakan, atau mensublisensikan materi dari Dinus Metaverse
 - Mereproduksi, menggandakan, atau menyalin materi dari Dinus Metaverse
-- Distribusikan ulang konten dari Dinus Metaverse
-Perjanjian ini akan dimulai pada tanggal Perjanjian ini.
+- Distribusikan ulang konten dari Dinus Metaverse, ketentuan ini akan dimulai pada tanggal ketentuan ini.
+
+### Komentar
 
 Bagian dari situs web ini menawarkan kesempatan bagi pengguna untuk memposting dan bertukar pendapat dan informasi di area tertentu dari situs web. Dinus Metaverse tidak memfilter, mengedit, menerbitkan, atau meninjau Komentar sebelum kehadirannya di situs web. Komentar tidak mencerminkan pandangan dan opini Dinus Metaverse, agen dan/atau afiliasinya. Komentar mencerminkan pandangan dan pendapat orang yang memposting pandangan dan pendapat mereka. Sejauh diizinkan oleh undang-undang yang berlaku, Dinus Metaverse tidak bertanggung jawab atas Komentar atau kewajiban, kerusakan, atau pengeluaran apa pun yang disebabkan dan/atau diderita sebagai akibat dari penggunaan dan/atau pengeposan dan/atau tampilan Komentar di situs ini.
 
@@ -37,22 +38,22 @@ Dinus Metaverse berhak untuk memantau semua Komentar dan menghapus Komentar apa 
 
 Anda menjamin dan menyatakan bahwa:
 
-- Anda berhak memposting Komentar di situs web kami dan memiliki semua lisensi dan persetujuan yang diperlukan untuk melakukannya;
+- Anda berhak memposting Komentar di situs web kami dan mematuhi semua lisensi dan persetujuan yang diperlukan untuk melakukannya.
 - Komentar tidak menyerang hak kekayaan intelektual apa pun, termasuk namun tidak terbatas pada hak cipta, paten, atau merek dagang dari pihak ketiga mana pun;
 - Komentar tidak mengandung materi yang memfitnah, memfitnah, menyinggung, tidak senonoh atau melanggar hukum yang merupakan pelanggaran privasi
 - Komentar tidak akan digunakan untuk meminta atau mempromosikan bisnis atau kebiasaan atau menyajikan aktivitas komersial atau aktivitas yang melanggar hukum.
 
-Anda dengan ini memberikan Dinus Metaverse lisensi non-eksklusif untuk menggunakan, mereproduksi, mengedit, dan mengizinkan orang lain untuk menggunakan, mereproduksi, dan mengedit Komentar Anda dalam segala bentuk, format, atau media.
+Dengan anda ini memberikan Dinus Metaverse lisensi non-eksklusif untuk menggunakan, mereproduksi, mengedit Komentar Anda dalam segala bentuk, format, atau media.
 
 ### Hyperlink ke Konten kami
 
 Organisasi berikut dapat menautkan ke Situs Web kami tanpa persetujuan tertulis sebelumnya:
 
-- Agensi pemerintahan;
-- Mesin pencari;
-- Organisasi berita;
-- Distributor direktori online dapat menautkan ke Situs Web kami dengan cara yang sama seperti mereka menautkan tautan ke Situs Web bisnis lain yang terdaftar; dan
-- Bisnis Terakreditasi di seluruh sistem kecuali meminta organisasi nirlaba, pusat perbelanjaan amal, dan kelompok penggalangan dana amal yang mungkin tidak hyperlink ke situs Web kami.
+- Agensi pemerintahan
+- Mesin pencari
+- Organisasi berita
+- Distributor direktori online dapat menautkan ke Situs Web kami dengan cara yang sama seperti mereka menautkan tautan ke Situs Web bisnis lain yang terdaftar
+- Bisnis Terakreditasi di seluruh sistem kecuali organisasi nirlaba, pusat perbelanjaan amal, dan kelompok penggalangan dana amal.
 
 Organisasi-organisasi ini dapat menautkan ke beranda kami, ke publikasi, atau ke informasi Situs Web lainnya selama tautan tersebut: (a) sama sekali tidak menipu; (b) tidak secara keliru menyiratkan sponsorship, pengesahan atau persetujuan dari pihak yang menautkan dan produk dan/atau layanannya; dan (c) sesuai dengan konteks situs pihak yang menautkan.
 

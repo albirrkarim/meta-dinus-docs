@@ -18,5 +18,5 @@ jobs:
     - uses: actions/checkout@v3
     # - run: whoami
     # - run: npm i
-    - run: cp -r /home/admin/hubs-actions-runner/docs/backup/node_modules .
+    - run: ln -s /home/admin/hubs-actions-runner/docs/backup/node_modules node_modules 
     - run: npm run build

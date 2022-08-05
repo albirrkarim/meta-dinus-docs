@@ -16,5 +16,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-    - run: cp -r /home/admin/hubs-actions-runner/docs/backup/node_modules .
+    - run: npm i
+    # - run: cp -r /home/admin/hubs-actions-runner/docs/backup/node_modules .
     - run: npm run build

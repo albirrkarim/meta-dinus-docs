@@ -1,6 +1,5 @@
 ---
 title: API
-slug: /api.html
 ---
 
 Berikut adalah dokumentasi API dari program dinus metaverse agar anda bisa mengatur program ini dari luar (secara programatic).

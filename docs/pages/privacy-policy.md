@@ -1,6 +1,5 @@
 ---
 title: Kebijakan Privasi
-slug: /privacy.html
 ---
 
 Kebijakan privasi pada Aplikasi Dinus Metaverse

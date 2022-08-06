@@ -1,8 +1,6 @@
 ---
-id: doc1
 sidebar_position: 1
 title : "Dinus Metaverse"
-slug: /welcome.html
 ---
 
 ### Selamat datang di Dinus Metaverse

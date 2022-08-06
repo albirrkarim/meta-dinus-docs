@@ -1,6 +1,5 @@
 ---
 title: Fitur - Fitur
-slug: /features.html
 ---
 
 Berbagai fitur pada Aplikasi Dinus Metaverse yang dapat digunakan untuk membantu berbagai kegiatan dalam penggguaan Aplikasi Dinus Metaverse.

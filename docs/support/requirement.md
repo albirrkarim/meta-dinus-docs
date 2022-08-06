@@ -1,6 +1,5 @@
 ---
-title: Rekomendasi Penggunaan 
-slug: /requirement.html
+title: Rekomendasi Penggunaan
 ---
 
 Rekomendasi dan spesifikasi minimum untuk mengakses aplikasi ini.
@@ -69,4 +68,4 @@ Jika anda sudah menggunakan browser yang direkomendasikan tetapi tidak berjalan 
 - Lakukan pengecekan pada **versi browser** anda jika membutuhkan pembaruan versi.
 - Gunakan browser lain dengan versi terbaru.
 
-Jika anda sudah mencoba cara diatas tetapi tetap mengalami hal yang sama, silakan [menghubungi developer](http://localhost:3000/docs/troubleshoot.html#jika-masih-error-bisa-menghubungi-admin).
+Jika anda sudah mencoba cara diatas tetapi tetap mengalami hal yang sama, silakan [menghubungi developer](/docs/troubleshoot#jika-masih-error-bisa-menghubungi-admin).

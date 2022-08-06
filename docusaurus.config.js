@@ -136,6 +136,13 @@ const config = {
         disableInDev: false,
       },
     ],
+    [
+      require.resolve("@cmfcmf/docusaurus-search-local"),
+      {
+        // Options here
+        indexBlog: false,
+      },
+    ],
   ],
 };
 

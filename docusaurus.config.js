@@ -9,7 +9,7 @@ const config = {
   title: "Dokumentasi Dinus Metaverse",
   tagline: "Dokumentasi Dinus Metaverse",
   url: "https://meta.dinus.ac.id",
-  baseUrl: "/docs",
+  baseUrl: "/docs/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",

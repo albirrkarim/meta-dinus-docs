@@ -21,9 +21,11 @@ jobs:
     # - run: cp -r /home/admin/hubs-actions-runner/docs/backup/node_modules node_modules 
     - run: ln -s /home/admin/hubs-actions-runner/docs/backup/node_modules node_modules 
     - run: npm run build
-    - run: |
-      mv build build_bak
-      mkdir build
-      mv build_bak build
-      cd build
-      mv build_bak docs
+
+    - name: Move build docs
+      run: |
+        mv build build_bak
+        mkdir build
+        mv build_bak build
+        cd build
+        mv build_bak docs

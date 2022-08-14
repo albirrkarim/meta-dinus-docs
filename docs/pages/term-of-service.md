@@ -14,7 +14,7 @@ Terminologi berikut berlaku untuk Syarat dan Ketentuan ini, Pernyataan Privasi d
 
 ### Cookies
 
-Kami menerapkan penggunaan cookie. Dengan mengakses Dinus Metaverse, Anda setuju untuk menggunakan cookie sesuai dengan [Kebijakan Privasi](/docs/privacy) Dinus Metaverse.
+Kami menerapkan penggunaan cookie. Dengan mengakses Dinus Metaverse, Anda setuju untuk menggunakan cookie sesuai dengan [Kebijakan Privasi](/docs/pages/privacy-policy) Dinus Metaverse.
 
 Sebagian besar situs web interaktif menggunakan cookie untuk memungkinkan kami mengambil detail pengguna untuk setiap kunjungan. Cookie digunakan oleh situs web kami untuk mengaktifkan fungsionalitas area tertentu untuk memudahkan orang mengunjungi situs web kami. Beberapa mitra kami juga dapat menggunakan cookie.
 

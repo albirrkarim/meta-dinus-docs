@@ -68,4 +68,4 @@ Jika anda sudah menggunakan browser yang direkomendasikan tetapi tidak berjalan 
 - Lakukan pengecekan pada **versi browser** anda jika membutuhkan pembaruan versi.
 - Gunakan browser lain dengan versi terbaru.
 
-Jika anda sudah mencoba cara diatas tetapi tetap mengalami hal yang sama, silakan [menghubungi developer](/docs/troubleshoot#jika-masih-error-bisa-menghubungi-admin).
+Jika anda sudah mencoba cara diatas tetapi tetap mengalami hal yang sama, silakan [menghubungi developer](/docs/support/troubleshoot#jika-masih-error-bisa-menghubungi-admin).

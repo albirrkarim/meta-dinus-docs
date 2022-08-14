@@ -6,4 +6,4 @@ Dapat juga untuk rapat. tanpa harus bertemu secara langsung. Aplikasi ini dapat 
 
 ### Private meeting
 
-lihat [Membatasi siapa yang dapat memasuki ruangan](/docs/rooms#membatasi-siapa-yang-dapat-memasuki-ruangan)
+lihat [Membatasi siapa yang dapat memasuki ruangan](/docs/support/rooms#membatasi-siapa-yang-dapat-memasuki-ruangan)

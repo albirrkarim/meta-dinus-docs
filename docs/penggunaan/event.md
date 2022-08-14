@@ -2,7 +2,7 @@
 title: Seminar / Workshop
 ---
 
-Anda dapat membuat Aula virtual di platform ini. di dalam aula tersebut anda bisa mengadakan seminar / workshop.
+Anda dapat membuat aula virtual di platform ini. di dalam aula tersebut anda bisa mengadakan seminar / workshop.
 
 ### Audio Untuk Seluruh Ruangan
 
@@ -15,4 +15,4 @@ Klik pada `scene` (nomor 1) dan lalu pada bagian `Properties` ubah `media distan
 
 ### Private event
 
-lihat [Membatasi siapa yang dapat memasuki ruangan](/docs/rooms#membatasi-siapa-yang-dapat-memasuki-ruangan)
+lihat [Membatasi siapa yang dapat memasuki ruangan](/docs/support/rooms#membatasi-siapa-yang-dapat-memasuki-ruangan)

@@ -2,7 +2,7 @@
 title: Fitur - Fitur
 ---
 
-Berbagai fitur pada Aplikasi Dinus Metaverse yang dapat digunakan untuk membantu berbagai kegiatan dalam penggguaan Aplikasi Dinus Metaverse.
+Berbagai fitur pada Aplikasi Dinus Metaverse yang dapat digunakan untuk membantu berbagai tipe kegiatan / acara.
 
 ## 1. Voice
 
